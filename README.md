@@ -24,7 +24,7 @@ Application Features:
 
 ## 🚀 Application Link
 Here is a link to the hosted application.<br/>
-Link: https://crypto-price-system.netlify.app/<br/>
+Link: https://crypto-price-system-nuxt.netlify.app/<br/>
 
 
 # Nuxt 3 Minimal Starter
